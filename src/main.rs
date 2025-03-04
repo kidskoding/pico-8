@@ -1,3 +1,5 @@
+mod audio;
+
 use std::time::Duration;
 use sdl3::event::Event;
 use sdl3::keyboard::Keycode;
