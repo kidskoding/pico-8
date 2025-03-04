@@ -7,6 +7,7 @@ edition = "2024"
 sdl3 = "0.14.14"
 rlua = "0.20.1"
 serde = { version = "1.0.218", features = ["derive"] }
+image = "0.25.5"
 
 [build-dependencies]
 sdl3-sys = "0.4.5"

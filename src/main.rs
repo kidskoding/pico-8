@@ -1,4 +1,6 @@
 mod audio;
+mod logic;
+mod sprite;
 
 use std::time::Duration;
 use sdl3::event::Event;
