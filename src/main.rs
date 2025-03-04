@@ -3,8 +3,8 @@ use sdl3::event::Event;
 use sdl3::keyboard::Keycode;
 use sdl3::pixels::Color;
 
-const WIDTH: u32 = 128;
-const HEIGHT: u32 = 128;
+const WIDTH: u32 = 640;
+const HEIGHT: u32 = 640;
 
 fn main() {
     let sdl_context = sdl3::init().unwrap();
