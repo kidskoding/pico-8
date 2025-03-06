@@ -1,6 +1,7 @@
+mod sprite;
 mod audio;
 mod logic;
-mod sprite;
+mod cartridge;
 
 use std::time::Duration;
 use sdl3::event::Event;
